@@ -1,1 +1,1 @@
-# Library-Management-System
+这是大二时数据库课程中的一个project，使用了SQLServer实现了一个图书馆管理系统，包括对图书馆中书籍的借阅、归还管理，对教师和学生的借书证的管理等操作。
